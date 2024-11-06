@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b6027de69e634d5aca59c415581ba84",
+    "revision": "14f6a59c2c5860129f976ed2ef5757af",
     "url": "/Gundojus-internal-tools/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gundojus-internal-tools/static/css/2.05cbb0d5.chunk.css"
   },
   {
-    "revision": "bb8dbf7c8b0e31e2cad5",
+    "revision": "8c0cf1e4db86aaacece1",
     "url": "/Gundojus-internal-tools/static/css/main.989288b7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gundojus-internal-tools/static/js/2.3da52e6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb8dbf7c8b0e31e2cad5",
-    "url": "/Gundojus-internal-tools/static/js/main.837aadb6.chunk.js"
+    "revision": "8c0cf1e4db86aaacece1",
+    "url": "/Gundojus-internal-tools/static/js/main.84adcf84.chunk.js"
   },
   {
     "revision": "e14ddd3e63a659705c48",
