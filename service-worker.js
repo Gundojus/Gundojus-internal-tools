@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Gundojus-internal-tools/precache-manifest.2a6e88ec0fc8d1029ec7a3dbcf131557.js"
+  "/Gundojus-internal-tools/precache-manifest.0e06878d0ee0bfc8f0db67d49ee804ae.js"
 );
 
 self.addEventListener('message', (event) => {
